@@ -1,0 +1,4 @@
+EmployeeID=1
+EmployeeName=Steph Curry
+Position=Full-Stack Developer
+HourlyPayRate=30.00

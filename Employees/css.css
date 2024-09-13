@@ -1,0 +1,56 @@
+/*two tier nav*/
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav>ul>li {
+    display: inline-block;
+    position: relative;
+}
+
+nav ul li ul {
+    position: absolute;
+    z-index: 1;
+    text-align: left;
+    background-color: aqua;
+    box-shadow: 0 0 5px gray;
+}
+
+nav ul li ul li a{
+    display: block;
+}
+
+nav ul li ul {
+    display: none;
+}
+
+nav ul li:hover ul {
+    display: block;
+}
+
+/*Grids like cards in awesome florist*/
+
+.cards {
+    /*container*/
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+}
+.flower{
+    /*elements*/
+    display: flex;
+    flex-flow: column;
+}
+
+/*responsiveness*/
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) {
+
+}

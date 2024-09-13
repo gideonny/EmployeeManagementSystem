@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gideo\\Desktop\\Computer Applications Development\\Semester 1\\Prog 8011 - Sukhbir Tatla\\Practical\\AssignmentPracticalGN8883421\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{225E1654-72CA-4515-9747-CCD2B29B8C9E}|AssignmentPracticalGN8883421.csproj|c:\\users\\gideo\\desktop\\computer applications development\\semester 1\\prog 8011 - sukhbir tatla\\practical\\assignmentpracticalgn8883421\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225E1654-72CA-4515-9747-CCD2B29B8C9E}|AssignmentPracticalGN8883421.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225E1654-72CA-4515-9747-CCD2B29B8C9E}|AssignmentPracticalGN8883421.csproj|c:\\users\\gideo\\desktop\\computer applications development\\semester 1\\prog 8011 - sukhbir tatla\\practical\\assignmentpracticalgn8883421\\editemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{225E1654-72CA-4515-9747-CCD2B29B8C9E}|AssignmentPracticalGN8883421.csproj|solutionrelative:editemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225E1654-72CA-4515-9747-CCD2B29B8C9E}|AssignmentPracticalGN8883421.csproj|c:\\users\\gideo\\desktop\\computer applications development\\semester 1\\prog 8011 - sukhbir tatla\\practical\\assignmentpracticalgn8883421\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{225E1654-72CA-4515-9747-CCD2B29B8C9E}|AssignmentPracticalGN8883421.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225E1654-72CA-4515-9747-CCD2B29B8C9E}|AssignmentPracticalGN8883421.csproj|c:\\users\\gideo\\desktop\\computer applications development\\semester 1\\prog 8011 - sukhbir tatla\\practical\\assignmentpracticalgn8883421\\sqlquery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{225E1654-72CA-4515-9747-CCD2B29B8C9E}|AssignmentPracticalGN8883421.csproj|solutionrelative:sqlquery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225E1654-72CA-4515-9747-CCD2B29B8C9E}|AssignmentPracticalGN8883421.csproj|c:\\users\\gideo\\desktop\\computer applications development\\semester 1\\prog 8011 - sukhbir tatla\\practical\\assignmentpracticalgn8883421\\sqlquery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{225E1654-72CA-4515-9747-CCD2B29B8C9E}|AssignmentPracticalGN8883421.csproj|solutionrelative:sqlquery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225E1654-72CA-4515-9747-CCD2B29B8C9E}|AssignmentPracticalGN8883421.csproj|c:\\users\\gideo\\desktop\\computer applications development\\semester 1\\prog 8011 - sukhbir tatla\\practical\\assignmentpracticalgn8883421\\sqlquery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{225E1654-72CA-4515-9747-CCD2B29B8C9E}|AssignmentPracticalGN8883421.csproj|solutionrelative:sqlquery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 308,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLQuery3.sql ",
+              "DocumentMoniker": "C:\\Users\\gideo\\Desktop\\Computer Applications Development\\Semester 1\\Prog 8011 - Sukhbir Tatla\\Practical\\AssignmentPracticalGN8883421\\SQLQuery3.sql",
+              "RelativeDocumentMoniker": "SQLQuery3.sql",
+              "ToolTip": "C:\\Users\\gideo\\Desktop\\Computer Applications Development\\Semester 1\\Prog 8011 - Sukhbir Tatla\\Practical\\AssignmentPracticalGN8883421\\SQLQuery3.sql",
+              "RelativeToolTip": "SQLQuery3.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-13T03:08:15.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\gideo\\Desktop\\Computer Applications Development\\Semester 1\\Prog 8011 - Sukhbir Tatla\\Practical\\AssignmentPracticalGN8883421\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\gideo\\Desktop\\Computer Applications Development\\Semester 1\\Prog 8011 - Sukhbir Tatla\\Practical\\AssignmentPracticalGN8883421\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-19T14:55:50.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditEmployeeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\gideo\\Desktop\\Computer Applications Development\\Semester 1\\Prog 8011 - Sukhbir Tatla\\Practical\\AssignmentPracticalGN8883421\\EditEmployeeWindow.xaml",
+              "RelativeDocumentMoniker": "EditEmployeeWindow.xaml",
+              "ToolTip": "C:\\Users\\gideo\\Desktop\\Computer Applications Development\\Semester 1\\Prog 8011 - Sukhbir Tatla\\Practical\\AssignmentPracticalGN8883421\\EditEmployeeWindow.xaml",
+              "RelativeToolTip": "EditEmployeeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-12T13:40:09.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gideo\\Desktop\\Computer Applications Development\\Semester 1\\Prog 8011 - Sukhbir Tatla\\Practical\\AssignmentPracticalGN8883421\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\gideo\\Desktop\\Computer Applications Development\\Semester 1\\Prog 8011 - Sukhbir Tatla\\Practical\\AssignmentPracticalGN8883421\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAswIoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:55:46.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "C:\\Users\\gideo\\Desktop\\Computer Applications Development\\Semester 1\\Prog 8011 - Sukhbir Tatla\\Practical\\AssignmentPracticalGN8883421\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\gideo\\Desktop\\Computer Applications Development\\Semester 1\\Prog 8011 - Sukhbir Tatla\\Practical\\AssignmentPracticalGN8883421\\SQLQuery2.sql",
+              "RelativeToolTip": "SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-12T14:15:00.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

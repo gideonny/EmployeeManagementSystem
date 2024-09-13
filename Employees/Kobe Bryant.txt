@@ -1,0 +1,4 @@
+EmployeeID=1
+EmployeeName=Kobe Bryant
+Position=Software Engineer
+HourlyPayRate=45.00
